@@ -1,0 +1,7 @@
+pandas 
+numpy
+scikit-learn
+seaborn
+matplotlib
+-e .
+# -e .: This line indicates that the package is installed in "editable" mode, which means that changes to the source code will be reflected immediately without needing to reinstall the package.
